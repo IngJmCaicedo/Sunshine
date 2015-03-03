@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="pref_temperature_units">
+        <item>Metric</item>
+        <item>Imperial</item>
+    </string-array>
+
+</resources>
